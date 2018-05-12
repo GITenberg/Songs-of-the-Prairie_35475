@@ -1,0 +1,36 @@
+_repo: Songs-of-the-Prairie_35475
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Colborne, Elizabeth
+    birthdate: 1885
+    deathdate: 1948
+    gutenberg_agent_id: '35465'
+    url: http://www.gutenberg.org/2009/agents/35465
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stead, Robert J. C.
+    alias: Stead, Robert James Campbell
+    birthdate: 1880
+    deathdate: 1959
+    gutenberg_agent_id: '1145'
+    url: http://www.gutenberg.org/2009/agents/1145
+    wikipedia: http://en.wikipedia.org/wiki/Robert_J.C._Stead
+description: ''
+gutenberg_issued: '2011-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35475'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prairie Provinces -- Poetry'
+- !lcc 'PS'
+- !lcsh 'Canadian poetry'
+title: Songs of the Prairie
+url: http://www.gutenberg.org/ebooks/35475
